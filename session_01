@@ -1,1 +1,3 @@
 ## this is the file for class 01.
+## how to print in python.
+print ("Hello world.")
