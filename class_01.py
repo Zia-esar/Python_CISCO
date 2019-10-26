@@ -14,5 +14,6 @@ subtract = num1 - num2
 print(subtract)
 
 ## concatination
-
+string1 = "My name is "
+string2 = "Zia-ur-Rehman."
 
